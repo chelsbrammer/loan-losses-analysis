@@ -4,6 +4,8 @@ This project is an analysis of UBPR data from all Missouri banks. While the data
 
 The Uniform Bank Performance Report (UBPR) is an analytical tool created for bank supervisory, examination, and management purposes. In a concise format, it shows the impact of management decisions and economic conditions on a bank's performance and balance-sheet composition. The performance and composition data contained in the report can be used as an aid in evaluating the adequacy of earnings, liquidity, capital, asset and liability management, and growth management. Bankers and examiners alike can use this report to further their understanding of a bank's financial condition, and through such understanding, perform their duties more effectively. https://www.ffiec.gov/ubpr.htm
 
+The Overleaf report for this project is available here: https://www.overleaf.com/read/tbzmrckdfrwb#d4368e
+
 ### Prerequisites
 1. GitHub 
 2. VS code editor

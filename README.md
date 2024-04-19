@@ -15,7 +15,3 @@ The Uniform Bank Performance Report (UBPR) is an analytical tool created for ban
 3. Matplotlib
 4. Seaborn
 5. Sklearn
-
-
-
-
